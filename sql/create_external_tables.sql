@@ -1,0 +1,2 @@
+--Master DB----
+CREATE MASTER KEY  ENCRYPTION BY PASSWORD ='my_own_password_123' 
